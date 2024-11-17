@@ -1,0 +1,220 @@
+[11:45 am, 16/11/2024] Vinod US: {
+	"train_id": "-1",
+	"train_date": "09/30/2024",//formating  need to be done
+	"train_time": "03:51:00",// combine
+	"site_id": "661",
+	"corridor_name": "",
+	"direction": "S",
+	"train_speed": "",
+	"cs_id": "-6184821323",
+	"car_id": "",
+	"car_name": "AMTK000014",
+	"car_type_alpha": "D",
+	"car_type_um": "D217",
+	"um_verified": "Y",
+	"lead_end": "A",
+	"no_axles": "4",
+	"no_trucks": "",
+	"car_ord_no": "1",
+	"car_wgt_calc": "",
+	"pct_load": "0",
+	"axle_no": "1",
+	"axle_seq_no": "1",
+	"truck": "",
+	"car_side": "L",
+	"axle_spacing": "0.000",
+	"defect_type": "",
+	"defect_severity": "0",
+	"fault_code": "",
+	"ana_diagnostic": ""
+}
+[11:46 am, 16/11/2024] Vinod US: {
+    "schema": {
+        "type": "struct",
+        "fields": [
+            {
+                "type": "string",
+                "optional": true,
+                "field": "ana_diagnostic"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "axle_no"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "axle_seq_no"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "axle_spacing"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_id"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_name"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_ord_no"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_side"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_type_alpha"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_type_um"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "car_wgt_calc"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "corridor_name"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "cs_id"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "defect_severity"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "defect_type"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "direction"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "fault_code"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "filename"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "lead_end"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "no_axles"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "no_trucks"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "pct_load"
+            },
+            {
+                "type": "int64",
+                "optional": true,
+                "field": "receivedatetime"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "site_id"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "train_date"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "train_id"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "train_speed"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "truck"
+            },
+            {
+                "type": "string",
+                "optional": true,
+                "field": "um_verified"
+            },
+            {
+                "type": "int64",
+                "optional": true,
+                "field": "utc_partition_timestamp"
+            }
+        ],
+        "optional": false
+    },
+    "payload": {
+        "ana_diagnostic": "",
+        "axle_no": "1",
+        "axle_seq_no": "96",
+        "axle_spacing": "",
+        "car_id": "",
+        "car_name": "AMTK009202",
+        "car_ord_no": "24",
+        "car_side": "L",
+        "car_type_alpha": "V",
+        "car_type_um": "V967",
+        "car_wgt_calc": "",
+        "corridor_name": "",
+        "cs_id": "-5135846312",
+        "defect_severity": "4",
+        "defect_type": "4",
+        "direction": "N",
+        "fault_code": "",
+        "filename": "ABD_WC_Daily_300_01-APR-24.json",
+        "lead_end": "A",
+        "no_axles": "4",
+        "no_trucks": "2",
+        "pct_load": "",
+        "receivedatetime": 1714568640720,
+        "site_id": "478",
+        "train_date": "31-MAR-2024:13:34:11",
+        "train_id": "-78039667",
+        "train_speed": "66.00",
+        "truck": "B",
+        "um_verified": "Y",
+        "utc_partition_timestamp": 1711892051000 //new field
+    }
+}

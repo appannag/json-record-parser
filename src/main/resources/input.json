@@ -1,0 +1,30 @@
+{
+	"train_id": "-1",
+	"train_date": "09/30/2024"
+	"train_time": "03:51:00"
+	"site_id": "661",
+	"corridor_name": "",
+	"direction": "S",
+	"train_speed": "",
+	"cs_id": "-6184821323",
+	"car_id": "",
+	"car_name": "AMTK000014",
+	"car_type_alpha": "D",
+	"car_type_um": "D217",
+	"um_verified": "Y",
+	"lead_end": "A",
+	"no_axles": "4",
+	"no_trucks": "",
+	"car_ord_no": "1",
+	"car_wgt_calc": "",
+	"pct_load": "0",
+	"axle_no": "1",
+	"axle_seq_no": "1",
+	"truck": "",
+	"car_side": "L",
+	"axle_spacing": "0.000",
+	"defect_type": "",
+	"defect_severity": "0",
+	"fault_code": "",
+	"ana_diagnostic": ""
+}
